@@ -10,3 +10,4 @@
   - 截图查看器 Screenshot Viewer（对内置汉化进行补充）
   - 旅行者背包 Traveler's Backpack（对内置汉化进行补充）
   - [WT] WorldTools
+  - 机械动力：晶莹剔透 Create: Crystal Clear（参考MC百科）2024年8月17日
