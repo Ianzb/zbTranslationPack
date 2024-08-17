@@ -17,4 +17,4 @@ jobs:
         uses: actions/upload-artifact@v4  
         with:  
           name: zbTranslationPack
-          path: zbTranslationPack.zip
+          path: zbTranslationPack
