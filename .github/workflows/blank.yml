@@ -1,0 +1,20 @@
+name: 自动构建资源包zip文件
+  
+on:  
+  push:  
+    branches:  
+      - main
+  
+jobs:  
+  build-and-zip:  
+    runs-on: ubuntu-latest  
+    steps:  
+      - uses: actions/checkout@v2  
+      - name: 压缩资源包
+        run: |  
+          zip -r zbTranslationPack.zip zbTranslationPack
+      - name: 保存资源包
+        uses: actions/upload-artifact@v2  
+        with:  
+          name: zbTranslationPack
+          path: zbTranslationPack.zip
