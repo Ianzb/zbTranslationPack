@@ -1,4 +1,4 @@
-name: 自动构建资源包zip文件
+name: Auto Pack Zip File
   
 on:  
   push:  
@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest  
     steps:  
       - uses: actions/checkout@v4  
-      - name: 压缩资源包
+      - name: Zip Pack
         run: |  
-          zip -r zbTranslationPack.zip zbTranslationPack/
-      - name: 保存资源包
+          zip -j zbTranslationPack.zip zbTranslationPack/*
+      - name: Save Pack
         uses: actions/upload-artifact@v4  
         with:  
           name: zbTranslationPack
