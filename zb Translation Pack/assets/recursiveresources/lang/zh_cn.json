@@ -1,0 +1,10 @@
+{
+  "recursiveresources.sort.a-z": "A-Z",
+  "recursiveresources.sort.z-a": "Z-A",
+  "recursiveresources.view.folder": "文件夹视图",
+  "recursiveresources.view.flat": "平铺视图",
+  "recursiveresources.folder.back": "（返回）",
+  "recursiveresources.folder.folder": "（文件夹）",
+  "recursiveresources.availablepacks.title.hover": "启用全部",
+  "recursiveresources.selectedpacks.title.hover": "禁用全部"
+}
