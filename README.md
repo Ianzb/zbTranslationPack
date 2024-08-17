@@ -13,3 +13,4 @@
   - 机械动力：晶莹剔透 Create: Crystal Clear（参考MC百科）2024年8月17日
   - Macaw的桥梁 Macaw's Bridges（对 自动汉化更新 汉化进行补充）2024年8月17日
   - Macaw的栅栏与墙 Macaw's Fences and Walls（对 自动汉化更新 汉化进行补充）2024年8月17日
+  - 更多箱子 Iron Chests（对内置汉化进行补充）2024年8月17日
