@@ -9,12 +9,12 @@ jobs:
   build-and-zip:  
     runs-on: ubuntu-latest  
     steps:  
-      - uses: actions/checkout@v2  
+      - uses: actions/checkout@v4  
       - name: 压缩资源包
         run: |  
-          zip -r zbTranslationPack.zip zbTranslationPack
+          zip -r zbTranslationPack.zip zbTranslationPack/
       - name: 保存资源包
-        uses: actions/upload-artifact@v2  
+        uses: actions/upload-artifact@v4  
         with:  
           name: zbTranslationPack
           path: zbTranslationPack.zip
