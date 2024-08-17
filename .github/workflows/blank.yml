@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4  
       - name: Zip Pack
         run: |  
-          zip -j zbTranslationPack.zip zbTranslationPack
+          zip -j zbTranslationPack.zip zbTranslationPack/* zbTranslationPack/*/* zbTranslationPack/*/*/*
       - name: Save Pack
         uses: actions/upload-artifact@v4  
         with:  
