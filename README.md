@@ -11,3 +11,4 @@
   - 旅行者背包 Traveler's Backpack（对内置汉化进行补充）
   - [WT] WorldTools
   - 机械动力：晶莹剔透 Create: Crystal Clear（参考MC百科）2024年8月17日
+  - Macaw的桥梁 Macaw's Bridges（对 自动汉化更新 汉化进行补充）
