@@ -14,6 +14,7 @@
   - Macaw的桥梁 Macaw's Bridges（对 自动汉化更新 汉化进行补充）2024年8月17日
   - Macaw的栅栏与墙 Macaw's Fences and Walls（对 自动汉化更新 汉化进行补充）2024年8月17日
   - 更多箱子 Iron Chests（对内置汉化进行补充）2024年8月17日
+  - [VS/VW]瓦尔基里天空/瓦尔基里战争 Valkyrien Skies/Valkyrien Warfare（对内置汉化进行补充）2024年8月18日
 ## 准备汉化内容
 - 模组（如无特殊说明均为Fabric 1.20.X 模组）
   - Create Deco
@@ -25,6 +26,6 @@
   - Macaw 的窗户Macaw's Windows
   - Macaw's Paths and Pavings
   - Macaw的屋顶Macaw's Roofs
-  - [VS/VW]瓦尔基里天空/瓦尔基里战争Valkyrien Skies/Valkyrien Warfare
+
   - 更好的末地BetterEnd（的极少部分未汉化内容）
   - Clockwork: Create x Valkyrien Skies
