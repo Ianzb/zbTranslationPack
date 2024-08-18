@@ -16,12 +16,12 @@
   - 更多箱子 Iron Chests（对内置汉化进行补充）2024年8月17日
   - [VS/VW]瓦尔基里天空/瓦尔基里战争 Valkyrien Skies/Valkyrien Warfare（对内置汉化进行补充）2024年8月18日
   - Clockwork: Create x Valkyrien Skies（基于MC百科评论区汉化进行补充）2024年8月18日
+  - Farmer's Knives（部分没查到的矿石就没翻译）2024年8月18日
 ## 准备汉化内容
 - 模组（如无特殊说明均为Fabric 1.20.X 模组）
   - Create Deco
   - Create: Food
   - 扩充乐事Expanded Delight
-  - Farmer's Knives
   - Macaw的灯Macaw's Lights and Lamps
   - Macaw的活板门Macaw's Trapdoors
   - Macaw 的窗户Macaw's Windows
