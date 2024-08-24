@@ -21,10 +21,10 @@
   - Macaw的活板门Macaw's Trapdoors（对 自动汉化更新 汉化进行补充）2024年8月24日
   - Macaw的灯Macaw's Lights and Lamps（对 自动汉化更新 汉化进行补充）2024年8月24日
   - Macaw的家具Macaw's Furniture（对 自动汉化更新 汉化进行补充）2024年8月24日
+  - Macaw 的窗户Macaw's Windows（对 自动汉化更新 汉化进行补充）2024年8月24日
 ## 准备汉化内容
 - 模组（如无特殊说明均为Fabric 1.20.X 模组）
   - Create Deco
   - Create: Food
   - 扩充乐事Expanded Delight
-  - Macaw 的窗户Macaw's Windows
   - Macaw's Paths and Pavings
