@@ -18,12 +18,12 @@
   - Clockwork: Create x Valkyrien Skies（基于MC百科评论区汉化进行补充）2024年8月18日
   - Farmer's Knives（部分没查到的矿石就没翻译）2024年8月18日
   - Macaw的屋顶 Macaw's Roofs（对 自动汉化更新 汉化进行补充）2024年8月18日
+  - Macaw的活板门Macaw's Trapdoors（对 自动汉化更新 汉化进行补充）2024年8月24日
 ## 准备汉化内容
 - 模组（如无特殊说明均为Fabric 1.20.X 模组）
   - Create Deco
   - Create: Food
   - 扩充乐事Expanded Delight
   - Macaw的灯Macaw's Lights and Lamps
-  - Macaw的活板门Macaw's Trapdoors
   - Macaw 的窗户Macaw's Windows
   - Macaw's Paths and Pavings
