@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v4  
       - name: Zip Pack
         run: |  
-          find zbTranslationPack/assets -name "zh_cn.json" -not -name "en_us.json" -exec zip -j zbTranslationPack.zip zbTranslationPack/* \;
+          zip -j zbTranslationPack.zip zbTranslationPack/*
       - name: Save Pack
         uses: actions/upload-artifact@v4  
         with:  
