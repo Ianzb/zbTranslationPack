@@ -1,6 +1,7 @@
 # zb Translation Pack
 一个自用的Minecraft Java版模组汉化包，为 自动汉化更新 模组在高版本Fabric的部分补充，个人翻译并不专业，如有问题欢迎指出。
-可以在https://zh.crowdin.com/project/zbTranslationPack上帮助翻译。
+可以在[https://zh.crowdin.com/project/zbTranslationPack]上帮助翻译。
+在Actions页面下载最新构建的汉化包。
 
 ## 已汉化内容
 - 模组（如无特殊说明均为Fabric 1.20.X 模组）
