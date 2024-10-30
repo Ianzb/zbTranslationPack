@@ -11,7 +11,7 @@
   - Recursive Resources
   - 截图查看器 Screenshot Viewer（对内置汉化进行补充）
   - 旅行者背包 Traveler's Backpack（对内置汉化进行补充）
-  - [WT] WorldTools
+  - [WT] WorldTools（与内置汉化独立发布，正在上传至 Minecraft-Mod-Language-Package）
   - 机械动力：晶莹剔透 Create: Crystal Clear（参考MC百科）2024年8月17日
   - Macaw的桥梁 Macaw's Bridges（对 自动汉化更新 汉化进行补充）2024年8月17日
   - Macaw的栅栏与墙 Macaw's Fences and Walls（对 自动汉化更新 汉化进行补充）2024年8月17日
