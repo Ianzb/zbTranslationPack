@@ -1,15 +1,14 @@
 # zb Translation Pack
-一个自用的Minecraft Java版模组汉化包，为 自动汉化更新 模组在高版本Fabric的部分补充，个人翻译并不专业，如有问题欢迎指出。
+一个自用的Minecraft Java版模组汉化包，为 自动汉化更新 模组在高版本的部分汉化补充，个人翻译并不专业，如有问题欢迎指出。
 可以在[https://zh.crowdin.com/project/zbTranslationPack]上帮助翻译。
 在Actions页面下载最新构建的汉化包。
 
 ## 已汉化内容
-- 模组（如无特殊说明均为Fabric 1.20.X 模组）
+- 模组
   - ChatShot（已上传至 Minecraft-Mod-Language-Package）
   - 方块实体优化 Enhanced Block Entities（对内置汉化进行补充）
   - [IAS] 游戏内账号切换 In-Game Account Switcher
   - Recursive Resources
-  - 截图查看器 Screenshot Viewer（对内置汉化进行补充）
   - 旅行者背包 Traveler's Backpack（对内置汉化进行补充）
   - [WT] WorldTools（与内置汉化独立发布，已上传至 Minecraft-Mod-Language-Package）
   - 机械动力：晶莹剔透 Create: Crystal Clear（参考MC百科）2024年8月17日
@@ -29,6 +28,9 @@
   - Oritech (Fabric 1.21.X 需要精校) 2024年9月15日
   - Create: Food（需要精校）2024年9月21日
   - 钠 · 扩展 Sodium Extra（对内置汉化进行补充）2024年12月8日
+## 过时已汉化内容
+- 模组
+  - 截图查看器 Screenshot Viewer（对内置汉化进行补充）
 ## 准备汉化内容
-- 模组（如无特殊说明均为Fabric 1.20.X 模组）
+- 模组
 
