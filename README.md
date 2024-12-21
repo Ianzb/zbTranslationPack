@@ -28,9 +28,9 @@
   - Oritech (Fabric 1.21.X 需要精校) 2024年9月15日
   - Create: Food（需要精校）2024年9月21日
   - 钠 · 扩展 Sodium Extra（对内置汉化进行补充）2024年12月8日
+  - 截图查看器 Screenshot Viewer（对内置汉化进行补充）2024年12月21日更新
 ## 过时已汉化内容
 - 模组
-  - 截图查看器 Screenshot Viewer（对内置汉化进行补充）
 ## 准备汉化内容
 - 模组
 
