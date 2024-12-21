@@ -27,6 +27,6 @@
 | Macaw's Paths and Pavings                                          |          | 2024年8月24日                     | 对 自动汉化更新 汉化进行补充                                |
 | Create Deco                                                        | 2.0.2    | 2024年8月31日                     |                                                             |
 | Oritech                                                            |          | 2024年9月15日                     | 正在Crowdin上更新汉化                                       |
-| Create: Food                                                       |          | 2024年9月21日                     | 正在Crowdin上更新汉化                                       |
+| Create: Food                                                       | 1.1.7    | 2024年9月21日                     | 正在Crowdin上更新汉化                                       |
 | 钠 · 扩展 Sodium Extra                                             |          | 2024年12月8日                     | 对内置汉化进行补充                                          |
 | 截图查看器 Screenshot Viewer                                       | 1.3.3    | 2024年12月21日更新                | 对内置汉化进行补充                                          |
