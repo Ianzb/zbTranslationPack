@@ -4,7 +4,8 @@ path=input("请输入文件路径：").strip("& ").strip('"').strip("'").strip()
 print("输入路径：",path,sep="")
 if os.path.exists(path) and zipfile.is_zipfile(path):
     zipfile=zipfile.ZipFile(path)
-    
+    if [i for i in zipfile.namelist() if i.endswith("lang/zh_cn.json")]:
+        print("该模组已存在汉化文件，请手动检查汉化内容！")
     l=[i for i in zipfile.namelist() if i.endswith("lang/en_us.json")]
     for i in l:
         print("正在解压：",i,sep="")
