@@ -9,7 +9,7 @@
 | ChatShot                                                           |          |                    | 已上传至 Minecraft-Mod-Language-Package                     |
 | 方块实体优化 Enhanced Block Entities                               |          |                    | 对内置汉化进行补充                                          |
 | [IAS] 游戏内账号切换 In-Game Account Switcher                      |          |                    |                                                             |
-| Recursive Resources                                                |          |                    |                                                             |
+| Recursive Resources                                                | 2.5.3    | 2024年12月21日更新 |                                                             |
 | 旅行者背包 Traveler's Backpack                                     | 10.1.5   | 2024年12月21日更新 | 对内置汉化进行补充                                          |
 | [WT] WorldTools                                                    |          |                    | 与内置汉化独立发布，已上传至 Minecraft-Mod-Language-Package |
 | 机械动力：晶莹剔透 Create: Crystal Clear                           |          | 2024年8月17日      | 参考MC百科                                                  |

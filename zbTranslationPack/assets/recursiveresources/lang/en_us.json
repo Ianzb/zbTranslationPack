@@ -5,6 +5,8 @@
   "recursiveresources.view.flat": "Flat View",
   "recursiveresources.folder.back": "(Back)",
   "recursiveresources.folder.folder": "(Folder)",
+  "recursiveresources.folder.errored": "Error loading folder.json",
+  "recursiveresources.folder.errored_description": "Please make sure your json structure is correct",
   "recursiveresources.availablepacks.title.hover": "Enable all",
   "recursiveresources.selectedpacks.title.hover": "Disable all"
 }

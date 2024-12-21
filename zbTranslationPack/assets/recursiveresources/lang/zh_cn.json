@@ -5,6 +5,8 @@
   "recursiveresources.view.flat": "平铺视图",
   "recursiveresources.folder.back": "（返回）",
   "recursiveresources.folder.folder": "（文件夹）",
+  "recursiveresources.folder.errored": "加载folder.json错误",
+  "recursiveresources.folder.errored_description": "请确保json文件格式正确",
   "recursiveresources.availablepacks.title.hover": "启用全部",
   "recursiveresources.selectedpacks.title.hover": "禁用全部"
 }
