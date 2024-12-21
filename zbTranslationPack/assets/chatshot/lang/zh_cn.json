@@ -23,5 +23,6 @@
   "chatshot.copyOption.text": "复制为文本",
   "chatshot.copyOption.image": "复制为图片",
   "chatshot.saveImage": "保存图片",
-  "chatshot.saveImage.description": "将你的聊天消息截图保存到.minecraft/screenshots/chat"
+  "chatshot.saveImage.description": "将你的聊天消息截图保存到.minecraft/screenshots/chat",
+  "chatshot.noMessageFound": "§4聊天消息不存在"
 }

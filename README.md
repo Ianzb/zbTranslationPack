@@ -6,9 +6,9 @@
 ## 汉化进度
 | 模组名称                                                           | 汉化版本 | 汉化日期           | 汉化状态                                                    |
 | ------------------------------------------------------------------ | -------- | ------------------ | ----------------------------------------------------------- |
-| ChatShot                                                           |          |                    | 已上传至 Minecraft-Mod-Language-Package                     |
+| ChatShot                                                           | 1.0.4    | 2024年12月21日更新 | 旧版已上传至 Minecraft-Mod-Language-Package                 |
 | 方块实体优化 Enhanced Block Entities                               |          |                    | 对内置汉化进行补充                                          |
-| [IAS] 游戏内账号切换 In-Game Account Switcher                      |          |                    |                                                             |
+| [IAS] 游戏内账号切换 In-Game Account Switcher                      | 9.0.2    |                    |                                                             |
 | Recursive Resources                                                | 2.5.3    | 2024年12月21日更新 |                                                             |
 | 旅行者背包 Traveler's Backpack                                     | 10.1.5   | 2024年12月21日更新 | 对内置汉化进行补充                                          |
 | [WT] WorldTools                                                    |          |                    | 与内置汉化独立发布，已上传至 Minecraft-Mod-Language-Package |
