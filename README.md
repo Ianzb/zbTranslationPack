@@ -1,5 +1,5 @@
-# zb翻译包（zb Translation Pack）
-一个自用的Minecraft Java版模组汉化包，为 自动汉化更新 模组在高版本的部分汉化补充，个人翻译并不专业，如有问题欢迎指出。
+# [zb翻译包（zb Translation Pack）](https://ianzb.github.io/project/zbTranslationPack.html)
+一个自用的Minecraft Java版模组汉化包，作为自动汉化更新模组在高版本的部分汉化补充。个人翻译并不专业，如有问题欢迎指出。
 可以在[Crowdin](https://zh.crowdin.com/project/zbTranslationPack)上帮助翻译。
 在Actions页面下载最新构建的汉化包。
 
