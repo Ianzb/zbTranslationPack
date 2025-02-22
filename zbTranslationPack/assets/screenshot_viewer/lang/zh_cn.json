@@ -23,6 +23,7 @@
   "screen.screenshot_viewer.field.screenshot_name": "设置新屏幕截图名称",
   "tooltip.screenshot_viewer.redirect_to_screenshot_manager": "在屏幕截图浏览器中打开屏幕截图...",
   "tooltip.screenshot_viewer.menu_hint": "右键以管理\n点击Ctrl+C以复制到剪贴板",
+
   "screen.screenshot_viewer.config": "屏幕截图浏览器配置",
   "config.screenshot_viewer.show_button_in_game_pause_menu": "在暂停页面显示按钮",
   "config.screenshot_viewer.show_button_in_game_pause_menu.desc": "在暂停页面显示一个直接查看屏幕截图的按钮。",
@@ -62,10 +63,13 @@
   "config.screenshot_viewer.thumbnail_folder.desc": "屏幕上展示的缩略图所在的文件夹路径。",
   "config.screenshot_viewer.compression_ratio": "压缩比",
   "config.screenshot_viewer.compression_ratio.desc": "截图图像与其缩略图之间的缩小比例，如果关闭将不会生成缩略图。",
+
   "config_category.screenshot_viewer.ingame": "功能",
   "config_category.screenshot_viewer.ingui": "个性化",
   "config_category.screenshot_viewer.screenshot_thumbnails": "缩略图",
+
   "toast.screenshot_viewer.copy_success": "屏幕截图复制成功！",
   "toast.screenshot_viewer.copy_fail": "屏幕截图复制失败：%s",
+
   "key.screenshot_viewer.open_screenshots_screen": "打开屏幕截图浏览器"
 }

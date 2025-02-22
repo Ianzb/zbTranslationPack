@@ -24,7 +24,7 @@ if os.path.exists(path) and zipfile.is_zipfile(path):
             tr = enstr
             for k in enjson.keys():
                 if k in cnjson.keys() and cnjson[k]:
-                    tr = tr.replace(f'"{enjson[k]}"', f'"{cnjson[k]}"')
+                    tr = tr.replace(f'"{repr(enjson[k])[1:-1]}"', f'"{repr(cnjson[k])[1:-1]}"')
             with open(cn, "w", encoding="utf-8") as f:
                 f.write(tr)
         else:
